@@ -1,4 +1,13 @@
 From below you will write  your name , Email and github username by clone -> commit -> pull -> push  ....
-Md. Tanvir Ahmed
-tanvirahmed.cse.bubt@gmail.com
-tanvir362
+
+Member 1:
+Name: Md. Tanvir Ahmed
+Email: tanvirahmed.cse.bubt@gmail.com
+Github Username: tanvir362
+
+Member 2:
+Name: Ashraful Islam
+Email: ashraful0103@gmail.com
+Github Username: ashrafulais
+
+
