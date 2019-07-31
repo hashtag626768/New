@@ -2,8 +2,7 @@ From below you will write  your name , Email and github username by clone -> com
 
 Member 1:
 Name: Md. Tanvir Ahmed
-Email: tanvirahmed.cse.bubt@gmail.com
-              tanvir66288@gmail.com
+Email: tanvirahmed.cse.bubt@gmail.com, tanvir66288@gmail.com
 Github Username: tanvir362
 
 Member 2:
