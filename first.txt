@@ -19,3 +19,8 @@ Member 4:
 Name: Sudipto Mitro
 Email: sudiptomitro2016@gmail.com
 Github Username: sudipto68
+
+Member 5: 
+Name: Farhan Fardid
+Email: farhanfardid62@gmail.com
+Github Username: fardid
